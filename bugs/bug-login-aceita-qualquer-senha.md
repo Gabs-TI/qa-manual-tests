@@ -42,4 +42,3 @@ Usuário é redirecionado para a tela de perfil, como se o login fosse bem-suced
 
 ![evidencia-login-bugado](../evidencias/login-bugado.png)
 
-> Obs: imagem simulada — pode ser adicionada posteriormente.
